@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FireCatKai
 - 👀 I’m interested in gamedev and music.
-- 🌱 I’m currently learning Kotlin and Java.
+- 🌱 I’m currently learning Java, Kotlin, Python, C#, HTML & CSS, and JS.
 - 💞️ I’m looking to collaborate on making games.
 - 📫 How to reach me Discord: 404 Found#0744
