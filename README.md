@@ -2,13 +2,13 @@
 
 ## Languages
 
-**Main Languages: **
+**Main Languages**
 - Python (3 Years)
 - Java (2 Years)
 - HTML & CSS (2 Years)
 - C (<1 Year)
 
-**Other Languages I Know: **
+**Other Languages I Know**
 - C++ (<1 Year)
 - JavaScript (<1 Year)
 - C# (<1 Year)
