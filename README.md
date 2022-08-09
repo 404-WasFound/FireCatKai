@@ -16,10 +16,8 @@
 
 ## Projects
 
-### AWTGL
+**AWTGL**
+- AWT Wrapper tailored to game development
 
-**AWT Wrapper tailored to game development**
-
-### What A View
-
-**A retro-style, metroid-vania, 2D Platformer written in Java with AWT and Swing**
+**What A View**
+- A retro-style, metroid-vania, 2D Platformer written in Java with AWT and Swing
