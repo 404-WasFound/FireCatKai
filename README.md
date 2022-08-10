@@ -1,4 +1,4 @@
-# 404 WasFound / Malachi McEnroe
+# 404 WasFound | Kai
 
 ## Languages
 
