@@ -6,6 +6,7 @@
 - Python (3 Years)
 - Java (2 Years)
 - HTML & CSS (2 Years)
+- TS (<1 Year)
 - C (<1 Year)
 
 **Other Languages I Know**
