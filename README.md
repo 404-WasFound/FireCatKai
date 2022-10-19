@@ -5,13 +5,13 @@
 **Main Languages**
 - Python (3 Years)
 - Java (2 Years)
-- HTML & CSS (2 Years)
-- TS (<1 Year)
-- C (<1 Year)
+- HTML & CSS/SCSS (3 Years)
+- C (1 Year)
 
 **Other Languages I Know**
 - C++ (<1 Year)
 - JavaScript (<1 Year)
+- TypeScript (<1 Year)
 - C# (<1 Year)
 - Kotlin (<1 Year)
 
