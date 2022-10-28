@@ -1,19 +1,8 @@
 # 404 WasFound | Kai
 
-## Languages
+## Main Languages
 
-**Main Languages**
-- Python (3 Years)
-- Java (2 Years)
-- HTML & CSS/SCSS (3 Years)
-- C (1 Year)
-
-**Other Languages I Know**
-- C++ (<1 Year)
-- JavaScript (<1 Year)
-- TypeScript (<1 Year)
-- C# (<1 Year)
-- Kotlin (<1 Year)
+https://github-readme-stats.vercel.app/api/top-langs?username=404-WasFound&layout=compact&theme=dark
 
 ## Projects
 
