@@ -2,7 +2,7 @@
 
 ## Main Languages
 
-![image](https://github-readme-stats.vercel.app/api/top-langs?username=404-WasFound&layout=compact&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs?username=MilkyBruv&layout=compact&theme=dark)
 
 ## Projects
 
