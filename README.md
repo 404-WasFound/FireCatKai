@@ -11,3 +11,6 @@
 
 **What A View**
 - A retro-style, metroid-vania, 2D Platformer written in Java with AWT and Swing
+
+**Graphics++**
+- A very simple graphics library for C++ madde with SDL2
