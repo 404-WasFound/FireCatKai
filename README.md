@@ -1,6 +1,6 @@
 # MilkyBruv
 
-![image](https://github-readme-stats.vercel.app/api/top-langs?username=MilkyBruv&layout=compact&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=MilkyBruv)
 
 ## Projects
 
