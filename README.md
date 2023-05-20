@@ -8,8 +8,6 @@
 
 ## Projects
 
-**AWTGL**
-- Java game development library made with Swing, AWT, JInput, and LWJGL ([link to repo](https://github.com/MilkyBruv/awtgl))
+**NCEA L3 91901 & 91609:**
 
-**What A View**
-- A retro-style, metroid-vania, 2D Platformer written in Java with AWT and Swing (Currently on hold until AWTGL is finished) ([link to repo](https://github.com/MilkyBruv/whataview))
+  - UX and project management design process explinations for NCEA L3. ([91901](https://github.com/MilkyBruv/91901-user-desgin-methodologies) & [91609](https://github.com/MilkyBruv/91609-product))
