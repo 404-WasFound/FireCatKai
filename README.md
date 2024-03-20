@@ -8,9 +8,9 @@
 
 ## Projects
 
-**NCEA L3 91901 & 91609:**
+**Multiplayer Party Game:**
 
-  - UX and project management design process explinations for NCEA L3. ([91901](https://github.com/MilkyBruv/91901-user-desgin-methodologies) & [91609](https://github.com/MilkyBruv/91609-product))
+  - A small, local multiplayer game in Java. ([MPG](https://github.com/MilkyBruv/multiplayer-party-game))
 
 **Jocoa:**
 
